@@ -1,0 +1,8 @@
+//To get firebase tools
+npm install -g firebase-tools
+//Sign into Google
+firebase login
+//Initiate Project
+firebase init
+//Deploy on web
+firebase deploy
